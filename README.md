@@ -15,10 +15,10 @@ La sottodirectory ./dati  è obbligatoria e contiene:
 * un file csv di esempio BVE0443169.csv
 * un file di esempio del risultato finale  BVE0443169.marc21.xml
 * note:
-		* In questa directory vengono inseriti i file in formato csv con la consistenza dei periodici che si 
+	* In questa directory vengono inseriti i file in formato csv con la consistenza dei periodici che si 
 desidera codificare in MARC21 : il file *deve* avere come separatore la virgola, si deve chiamare [BID].csv e
 deve avere gli stessi campi del file di esempio BVE0443169.csv. 
-		* In questa directory si troveranno anche i risultati finali creati dal programma 99999.sh [BID].marc21.xml
+	* In questa directory si troveranno anche i risultati finali creati dal programma 99999.sh [BID].marc21.xml
 
 ## 4.
 lanciare l'elaborazione con ./99999.sh [bid]  (il parametro è costituito dal solo BID). Il file in formato MARC21 viene
