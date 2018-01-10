@@ -1,0 +1,773 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:marc="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+<marc:record>
+  <marc:leader>01447nas a22002657i 4500</marc:leader>
+  <marc:controlfield tag="001">IT\ICCU\BVE\0443169</marc:controlfield>
+  <marc:controlfield tag="003">ItRI</marc:controlfield>
+  <marc:controlfield tag="005">20151016123551.4</marc:controlfield>
+  <marc:controlfield tag="008">070731c19249999it ||||||||||||   b0||||c</marc:controlfield>
+  <marc:datafield tag="040" ind1=" " ind2=" ">
+    <marc:subfield code="b">ita</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="041" ind1=" " ind2="7">
+    <marc:subfield code="a">ita</marc:subfield>
+    <marc:subfield code="2">ISO-639-2</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="110" ind1="2" ind2=" ">
+    <marc:subfield code="a">Italia.</marc:subfield>
+    <marc:subfield code="b">Direzione generale imposte dirette</marc:subfield>
+    <marc:subfield code="0">IT\ICCU\SBLV\229755</marc:subfield>
+    <marc:subfield code="4">aut</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="245" ind1="0" ind2="0">
+    <marc:subfield code="a">Imposta sui redditi di ricchezza mobile :</marc:subfield>
+    <marc:subfield code="b">elenco dei contribuenti privati possessori di redditi incerti e variabili delle categorie B e C (esclusa la rivalsa) : provincia di ... /</marc:subfield>
+    <marc:subfield code="c">Ministero delle finanze, Direzione generale delle imposte dirette.</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="260" ind1=" " ind2=" ">
+    <marc:subfield code="a">Roma :</marc:subfield>
+    <marc:subfield code="b">Libreria dello Stato,</marc:subfield>
+    <marc:subfield code="c">1924-</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="300" ind1=" " ind2=" ">
+    <marc:subfield code="a">v. ;</marc:subfield>
+    <marc:subfield code="c">24 cm</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="362" ind1="0" ind2=" ">
+    <marc:subfield code="a">1924- </marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="500" ind1=" " ind2=" ">
+    <marc:subfield code="a">Periodicita non determinata</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="500" ind1=" " ind2=" ">
+    <marc:subfield code="a">Il compl. del tit. varia</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="500" ind1=" " ind2=" ">
+    <marc:subfield code="a">Elenchi distinti per ciascuna provincia.</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="791" ind1="2" ind2=" ">
+    <marc:subfield code="a">Italia.</marc:subfield>
+    <marc:subfield code="b">Direzione generale per la finanza straordinaria</marc:subfield>
+    <marc:subfield code="3">IT\ICCU\RMGV\011490</marc:subfield>
+    <marc:subfield code="z">Italia : Direzione generale imposte dirette</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="791" ind1="2" ind2=" ">
+    <marc:subfield code="a">Ministero delle finanze.</marc:subfield>
+    <marc:subfield code="b">Direzione generale delle imposte dirette</marc:subfield>
+    <marc:subfield code="3">IT\ICCU\SBLV\054623</marc:subfield>
+    <marc:subfield code="z">Italia : Direzione generale imposte dirette</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="791" ind1="2" ind2=" ">
+    <marc:subfield code="a">Italia.</marc:subfield>
+    <marc:subfield code="b">Ministero delle finanze.</marc:subfield>
+    <marc:subfield code="b">Direzione generale delle imposte dirette</marc:subfield>
+    <marc:subfield code="3">IT\ICCU\SBLV\231697</marc:subfield>
+    <marc:subfield code="z">Italia : Direzione generale imposte dirette</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="791" ind1="2" ind2=" ">
+    <marc:subfield code="a">Ministero delle finanze.</marc:subfield>
+    <marc:subfield code="b">Direzione generale delle imposte</marc:subfield>
+    <marc:subfield code="3">IT\ICCU\SBLV\244565</marc:subfield>
+    <marc:subfield code="z">Italia : Direzione generale imposte dirette</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="981" ind1=" " ind2="1">
+    <marc:subfield code="6">z01</marc:subfield>
+    <marc:subfield code="a">i </marc:subfield>
+    <marc:subfield code="b">xxxe  </marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="982" ind1=" " ind2="1">
+    <marc:subfield code="6">z01</marc:subfield>
+    <marc:subfield code="a">n</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="955" ind1=" " ind2=" ">
+    <marc:subfield code="b">CRPER000114238</marc:subfield>
+    <marc:subfield code="v">Provincia del Friuli(1924)</marc:subfield>
+    <marc:subfield code="3">A.UFF.5.32</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="955" ind1=" " ind2=" ">
+    <marc:subfield code="b">CRPER000114245</marc:subfield>
+    <marc:subfield code="v">Provincia del Jonio(1924)</marc:subfield>
+    <marc:subfield code="3">A.UFF.5.32</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="955" ind1=" " ind2=" ">
+    <marc:subfield code="b">CRPER000114224</marc:subfield>
+    <marc:subfield code="v">Provincia di Ancona(1924)</marc:subfield>
+    <marc:subfield code="3">A.UFF.5.32</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="955" ind1=" " ind2=" ">
+    <marc:subfield code="b">CRPER000114216</marc:subfield>
+    <marc:subfield code="v">Provincia di Aquila(1924)</marc:subfield>
+    <marc:subfield code="3">A.UFF.5.32</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="955" ind1=" " ind2=" ">
+    <marc:subfield code="b">CRPER000114217</marc:subfield>
+    <marc:subfield code="v">Provincia di Arezzo(1924)</marc:subfield>
+    <marc:subfield code="3">A.UFF.5.32</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="955" ind1=" " ind2=" ">
+    <marc:subfield code="b">CRPER000114218</marc:subfield>
+    <marc:subfield code="v">Provincia di Avellino(1924)</marc:subfield>
+    <marc:subfield code="3">A.UFF.5.32</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="955" ind1=" " ind2=" ">
+    <marc:subfield code="b">CRPER000114219</marc:subfield>
+    <marc:subfield code="v">Provincia di Belluno(1924)</marc:subfield>
+    <marc:subfield code="3">A.UFF.5.32</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="955" ind1=" " ind2=" ">
+    <marc:subfield code="b">CRPER000114220</marc:subfield>
+    <marc:subfield code="v">Provincia di Benevento(1924)</marc:subfield>
+    <marc:subfield code="3">A.UFF.5.32</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="955" ind1=" " ind2=" ">
+    <marc:subfield code="b">CRPER000114221</marc:subfield>
+    <marc:subfield code="v">Provincia di Bergamo(1924)</marc:subfield>
+    <marc:subfield code="3">A.UFF.5.32</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="955" ind1=" " ind2=" ">
+    <marc:subfield code="b">CRPER000114222</marc:subfield>
+    <marc:subfield code="v">Provincia di Bologna(1924)</marc:subfield>
+    <marc:subfield code="3">A.UFF.5.32</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="955" ind1=" " ind2=" ">
+    <marc:subfield code="b">CRPER000114223</marc:subfield>
+    <marc:subfield code="v">Provincia di Brescia(1924)</marc:subfield>
+    <marc:subfield code="3">A.UFF.5.32</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="955" ind1=" " ind2=" ">
+    <marc:subfield code="b">CRPER000114225</marc:subfield>
+    <marc:subfield code="v">Provincia di Cagliari(1924)</marc:subfield>
+    <marc:subfield code="3">A.UFF.5.32</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="955" ind1=" " ind2=" ">
+    <marc:subfield code="b">CRPER000114226</marc:subfield>
+    <marc:subfield code="v">Provincia di Caltanissetta(1924)</marc:subfield>
+    <marc:subfield code="3">A.UFF.5.32</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="955" ind1=" " ind2=" ">
+    <marc:subfield code="b">CRPER000114227</marc:subfield>
+    <marc:subfield code="v">Provincia di Campobasso(1924)</marc:subfield>
+    <marc:subfield code="3">A.UFF.5.32</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="955" ind1=" " ind2=" ">
+    <marc:subfield code="b">CRPER000114228</marc:subfield>
+    <marc:subfield code="v">Provincia di Caserta(1924)</marc:subfield>
+    <marc:subfield code="3">A.UFF.5.32</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="955" ind1=" " ind2=" ">
+    <marc:subfield code="b">CRPER000114229</marc:subfield>
+    <marc:subfield code="v">Provincia di Catania(1924)</marc:subfield>
+    <marc:subfield code="3">A.UFF.5.32</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="955" ind1=" " ind2=" ">
+    <marc:subfield code="b">CRPER000114230</marc:subfield>
+    <marc:subfield code="v">Provincia di Catanzaro(1924)</marc:subfield>
+    <marc:subfield code="3">A.UFF.5.32</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="955" ind1=" " ind2=" ">
+    <marc:subfield code="b">CRPER000114231</marc:subfield>
+    <marc:subfield code="v">Provincia di Chieti(1924)</marc:subfield>
+    <marc:subfield code="3">A.UFF.5.32</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="955" ind1=" " ind2=" ">
+    <marc:subfield code="b">CRPER000114232</marc:subfield>
+    <marc:subfield code="v">Provincia di Como(1924)</marc:subfield>
+    <marc:subfield code="3">A.UFF.5.32</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="955" ind1=" " ind2=" ">
+    <marc:subfield code="b">CRPER000114233</marc:subfield>
+    <marc:subfield code="v">Provincia di Cosenza(1924)</marc:subfield>
+    <marc:subfield code="3">A.UFF.5.32</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="955" ind1=" " ind2=" ">
+    <marc:subfield code="b">CRPER000114234</marc:subfield>
+    <marc:subfield code="v">Provincia di Cremona(1924)</marc:subfield>
+    <marc:subfield code="3">A.UFF.5.32</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="955" ind1=" " ind2=" ">
+    <marc:subfield code="b">CRPER000114235</marc:subfield>
+    <marc:subfield code="v">Provincia di Cuneo(1924)</marc:subfield>
+    <marc:subfield code="3">A.UFF.5.32</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="955" ind1=" " ind2=" ">
+    <marc:subfield code="b">CRPER000114236</marc:subfield>
+    <marc:subfield code="v">Provincia di Ferrara(1924)</marc:subfield>
+    <marc:subfield code="3">A.UFF.5.32</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="955" ind1=" " ind2=" ">
+    <marc:subfield code="b">CRPER000114237</marc:subfield>
+    <marc:subfield code="v">Provincia di Firenze(1924)</marc:subfield>
+    <marc:subfield code="3">A.UFF.5.32</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="955" ind1=" " ind2=" ">
+    <marc:subfield code="b">CRPER000114239</marc:subfield>
+    <marc:subfield code="v">Provincia di Genova, fascicolo 1(1924)</marc:subfield>
+    <marc:subfield code="3">A.UFF.5.32</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="955" ind1=" " ind2=" ">
+    <marc:subfield code="b">CRPER000114240</marc:subfield>
+    <marc:subfield code="v">Provincia di Genova, fascicolo 2(1924)</marc:subfield>
+    <marc:subfield code="3">A.UFF.5.32</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="955" ind1=" " ind2=" ">
+    <marc:subfield code="b">CRPER000114241</marc:subfield>
+    <marc:subfield code="v">Provincia di Girgenti(1924)</marc:subfield>
+    <marc:subfield code="3">A.UFF.5.32</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="955" ind1=" " ind2=" ">
+    <marc:subfield code="b">CRPER000114242</marc:subfield>
+    <marc:subfield code="v">Provincia di Grosseto(1924)</marc:subfield>
+    <marc:subfield code="3">A.UFF.5.32</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="955" ind1=" " ind2=" ">
+    <marc:subfield code="b">CRPER000114243</marc:subfield>
+    <marc:subfield code="v">Provincia di Imperia(1924)</marc:subfield>
+    <marc:subfield code="3">A.UFF.5.32</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="955" ind1=" " ind2=" ">
+    <marc:subfield code="b">CRPER000114244</marc:subfield>
+    <marc:subfield code="v">Provincia di Istria(1924)</marc:subfield>
+    <marc:subfield code="3">A.UFF.5.32</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="955" ind1=" " ind2=" ">
+    <marc:subfield code="b">CRPER000114246</marc:subfield>
+    <marc:subfield code="v">Provincia di Lecce(1924)</marc:subfield>
+    <marc:subfield code="3">A.UFF.5.32</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="955" ind1=" " ind2=" ">
+    <marc:subfield code="b">CRPER000114247</marc:subfield>
+    <marc:subfield code="v">Provincia di Livorno(1924)</marc:subfield>
+    <marc:subfield code="3">A.UFF.5.32</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="955" ind1=" " ind2=" ">
+    <marc:subfield code="b">CRPER000114248</marc:subfield>
+    <marc:subfield code="v">Provincia di Macerata(1924)</marc:subfield>
+    <marc:subfield code="3">A.UFF.5.32</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="955" ind1=" " ind2=" ">
+    <marc:subfield code="b">CRPER000114249</marc:subfield>
+    <marc:subfield code="v">Provincia di Mantova(1924)</marc:subfield>
+    <marc:subfield code="3">A.UFF.5.32</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="955" ind1=" " ind2=" ">
+    <marc:subfield code="b">CRPER000114250</marc:subfield>
+    <marc:subfield code="v">Provincia di Massa-Carrara(1924)</marc:subfield>
+    <marc:subfield code="3">A.UFF.5.32</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="955" ind1=" " ind2=" ">
+    <marc:subfield code="b">CRPER000114251</marc:subfield>
+    <marc:subfield code="v">Provincia di Messina(1924)</marc:subfield>
+    <marc:subfield code="3">A.UFF.5.32</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="955" ind1=" " ind2=" ">
+    <marc:subfield code="b">CRPER000114252</marc:subfield>
+    <marc:subfield code="v">Provincia di Milano, fascicolo 2(1924)</marc:subfield>
+    <marc:subfield code="3">A.UFF.5.32</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="955" ind1=" " ind2=" ">
+    <marc:subfield code="b">CRPER000114253</marc:subfield>
+    <marc:subfield code="v">Provincia di Modena(1924)</marc:subfield>
+    <marc:subfield code="3">A.UFF.5.32</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="955" ind1=" " ind2=" ">
+    <marc:subfield code="b">CRPER000114254</marc:subfield>
+    <marc:subfield code="v">Provincia di Napoli, fascicolo 1(1924)</marc:subfield>
+    <marc:subfield code="3">A.UFF.5.32</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="955" ind1=" " ind2=" ">
+    <marc:subfield code="b">CRPER000114255</marc:subfield>
+    <marc:subfield code="v">Provincia di Napoli, fascicolo 2(1924)</marc:subfield>
+    <marc:subfield code="3">A.UFF.5.32</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="955" ind1=" " ind2=" ">
+    <marc:subfield code="b">CRPER000114256</marc:subfield>
+    <marc:subfield code="v">Provincia di Novara(1924)</marc:subfield>
+    <marc:subfield code="3">A.UFF.5.32</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="955" ind1=" " ind2=" ">
+    <marc:subfield code="b">CRPER000114259</marc:subfield>
+    <marc:subfield code="v">Provincia di Padova(1924)</marc:subfield>
+    <marc:subfield code="3">A.UFF.5.32</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="955" ind1=" " ind2=" ">
+    <marc:subfield code="b">CRPER000114257</marc:subfield>
+    <marc:subfield code="v">Provincia di Palermo, fascicolo 1(1924)</marc:subfield>
+    <marc:subfield code="3">A.UFF.5.32</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="955" ind1=" " ind2=" ">
+    <marc:subfield code="b">CRPER000114258</marc:subfield>
+    <marc:subfield code="v">Provincia di Palermo, fascicolo 2(1924)</marc:subfield>
+    <marc:subfield code="3">A.UFF.5.32</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="955" ind1=" " ind2=" ">
+    <marc:subfield code="b">CRPER000114260</marc:subfield>
+    <marc:subfield code="v">Provincia di Parma(1924)</marc:subfield>
+    <marc:subfield code="3">A.UFF.5.32</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="955" ind1=" " ind2=" ">
+    <marc:subfield code="b">CRPER000114261</marc:subfield>
+    <marc:subfield code="v">Provincia di Pavia(1924)</marc:subfield>
+    <marc:subfield code="3">A.UFF.5.32</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="955" ind1=" " ind2=" ">
+    <marc:subfield code="b">CRPER000114264</marc:subfield>
+    <marc:subfield code="v">Provincia di Perugia(1924)</marc:subfield>
+    <marc:subfield code="3">A.UFF.5.32</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="955" ind1=" " ind2=" ">
+    <marc:subfield code="b">CRPER000114262</marc:subfield>
+    <marc:subfield code="v">Provincia di Pesaro-Urbino(1924)</marc:subfield>
+    <marc:subfield code="3">A.UFF.5.32</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="955" ind1=" " ind2=" ">
+    <marc:subfield code="b">CRPER000114263</marc:subfield>
+    <marc:subfield code="v">Provincia di Pisa(1924)</marc:subfield>
+    <marc:subfield code="3">A.UFF.5.32</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="955" ind1=" " ind2=" ">
+    <marc:subfield code="b">CRPER000114265</marc:subfield>
+    <marc:subfield code="v">Provincia di Potenza(1924)</marc:subfield>
+    <marc:subfield code="3">A.UFF.5.32</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="955" ind1=" " ind2=" ">
+    <marc:subfield code="b">CRPER000114266</marc:subfield>
+    <marc:subfield code="v">Provincia di Ravenna(1924)</marc:subfield>
+    <marc:subfield code="3">A.UFF.5.32</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="955" ind1=" " ind2=" ">
+    <marc:subfield code="b">CRPER000114267</marc:subfield>
+    <marc:subfield code="v">Provincia di Reggio Calabria(1924)</marc:subfield>
+    <marc:subfield code="3">A.UFF.5.32</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="955" ind1=" " ind2=" ">
+    <marc:subfield code="b">CRPER000114268</marc:subfield>
+    <marc:subfield code="v">Provincia di Reggio Emilia(1924)</marc:subfield>
+    <marc:subfield code="3">A.UFF.5.32</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="955" ind1=" " ind2=" ">
+    <marc:subfield code="b">CRPER000114269</marc:subfield>
+    <marc:subfield code="v">Provincia di Roma, fascicolo 1(1924)</marc:subfield>
+    <marc:subfield code="3">A.UFF.5.32</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="955" ind1=" " ind2=" ">
+    <marc:subfield code="b">CRPER000114270</marc:subfield>
+    <marc:subfield code="v">Provincia di Roma, fascicolo 2(1924)</marc:subfield>
+    <marc:subfield code="3">A.UFF.5.32</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="955" ind1=" " ind2=" ">
+    <marc:subfield code="b">CRPER000114271</marc:subfield>
+    <marc:subfield code="v">Provincia di Salerno(1924)</marc:subfield>
+    <marc:subfield code="3">A.UFF.5.32</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="955" ind1=" " ind2=" ">
+    <marc:subfield code="b">CRPER000114272</marc:subfield>
+    <marc:subfield code="v">Provincia di Sassari(1924)</marc:subfield>
+    <marc:subfield code="3">A.UFF.5.32</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="955" ind1=" " ind2=" ">
+    <marc:subfield code="b">CRPER000114273</marc:subfield>
+    <marc:subfield code="v">Provincia di Siena(1924)</marc:subfield>
+    <marc:subfield code="3">A.UFF.5.32</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="955" ind1=" " ind2=" ">
+    <marc:subfield code="b">CRPER000114274</marc:subfield>
+    <marc:subfield code="v">Provincia di Siracusa(1924)</marc:subfield>
+    <marc:subfield code="3">A.UFF.5.32</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="955" ind1=" " ind2=" ">
+    <marc:subfield code="b">CRPER000114275</marc:subfield>
+    <marc:subfield code="v">Provincia di Sondrio(1924)</marc:subfield>
+    <marc:subfield code="3">A.UFF.5.32</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="955" ind1=" " ind2=" ">
+    <marc:subfield code="b">CRPER000114276</marc:subfield>
+    <marc:subfield code="v">Provincia di Spezia(1924)</marc:subfield>
+    <marc:subfield code="3">A.UFF.5.32</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="955" ind1=" " ind2=" ">
+    <marc:subfield code="b">CRPER000114277</marc:subfield>
+    <marc:subfield code="v">Provincia di Teramo(1924)</marc:subfield>
+    <marc:subfield code="3">A.UFF.5.32</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="955" ind1=" " ind2=" ">
+    <marc:subfield code="b">CRPER000114279</marc:subfield>
+    <marc:subfield code="v">Provincia di Torino, fascicolo 1(1924)</marc:subfield>
+    <marc:subfield code="3">A.UFF.5.32</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="955" ind1=" " ind2=" ">
+    <marc:subfield code="b">CRPER000114280</marc:subfield>
+    <marc:subfield code="v">Provincia di Torino, fascicolo 2(1924)</marc:subfield>
+    <marc:subfield code="3">A.UFF.5.32</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="955" ind1=" " ind2=" ">
+    <marc:subfield code="b">CRPER000114281</marc:subfield>
+    <marc:subfield code="v">Provincia di Trapani(1924)</marc:subfield>
+    <marc:subfield code="3">A.UFF.5.32</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="955" ind1=" " ind2=" ">
+    <marc:subfield code="b">CRPER000114282</marc:subfield>
+    <marc:subfield code="v">Provincia di Treviso(1924)</marc:subfield>
+    <marc:subfield code="3">A.UFF.5.32</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="955" ind1=" " ind2=" ">
+    <marc:subfield code="b">CRPER000114278</marc:subfield>
+    <marc:subfield code="v">Provincia di Trieste(1924)</marc:subfield>
+    <marc:subfield code="3">A.UFF.5.32</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="955" ind1=" " ind2=" ">
+    <marc:subfield code="b">CRPER000114283</marc:subfield>
+    <marc:subfield code="v">Provincia di Venezia(1924)</marc:subfield>
+    <marc:subfield code="3">A.UFF.5.32</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="955" ind1=" " ind2=" ">
+    <marc:subfield code="b">CRPER000114284</marc:subfield>
+    <marc:subfield code="v">Provincia di Verona(1924)</marc:subfield>
+    <marc:subfield code="3">A.UFF.5.32</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="955" ind1=" " ind2=" ">
+    <marc:subfield code="b">CRPER000114285</marc:subfield>
+    <marc:subfield code="v">Provincia di Vicenza(1924)</marc:subfield>
+    <marc:subfield code="3">A.UFF.5.32</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="955" ind1=" " ind2=" ">
+    <marc:subfield code="b">CRPER000104647</marc:subfield>
+    <marc:subfield code="v">Provincia di Trieste(1927)</marc:subfield>
+    <marc:subfield code="3">A.UFF.5.33</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="955" ind1=" " ind2=" ">
+    <marc:subfield code="b">CRPER000104574</marc:subfield>
+    <marc:subfield code="v">Provincia di Bari(1928)</marc:subfield>
+    <marc:subfield code="3">A.UFF.5.33</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="955" ind1=" " ind2=" ">
+    <marc:subfield code="b">CRPER000104573</marc:subfield>
+    <marc:subfield code="v">Provincia di Bologna(1928)</marc:subfield>
+    <marc:subfield code="3">A.UFF.5.33</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="955" ind1=" " ind2=" ">
+    <marc:subfield code="b">CRPER000104577</marc:subfield>
+    <marc:subfield code="v">Provincia di Cagliari(1928)</marc:subfield>
+    <marc:subfield code="3">A.UFF.5.33</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="955" ind1=" " ind2=" ">
+    <marc:subfield code="b">CRPER000104576</marc:subfield>
+    <marc:subfield code="v">Provincia di Catania(1928)</marc:subfield>
+    <marc:subfield code="3">A.UFF.5.33</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="955" ind1=" " ind2=" ">
+    <marc:subfield code="b">CRPER000104575</marc:subfield>
+    <marc:subfield code="v">Provincia di Firenze(1928)</marc:subfield>
+    <marc:subfield code="3">A.UFF.5.33</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="955" ind1=" " ind2=" ">
+    <marc:subfield code="b">CRPER000104652</marc:subfield>
+    <marc:subfield code="v">Provincia di Livorno(1928)</marc:subfield>
+    <marc:subfield code="3">A.UFF.5.33</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="955" ind1=" " ind2=" ">
+    <marc:subfield code="b">CRPER000104651</marc:subfield>
+    <marc:subfield code="v">Provincia di Messina(1928)</marc:subfield>
+    <marc:subfield code="3">A.UFF.5.33</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="955" ind1=" " ind2=" ">
+    <marc:subfield code="b">CRPER000104650</marc:subfield>
+    <marc:subfield code="v">Provincia di Milano(1928)</marc:subfield>
+    <marc:subfield code="3">A.UFF.5.33</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="955" ind1=" " ind2=" ">
+    <marc:subfield code="b">CRPER000104648</marc:subfield>
+    <marc:subfield code="v">Provincia di Palermo(1928)</marc:subfield>
+    <marc:subfield code="3">A.UFF.5.33</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="955" ind1=" " ind2=" ">
+    <marc:subfield code="b">CRPER000104653</marc:subfield>
+    <marc:subfield code="v">Provincia di Venezia(1928)</marc:subfield>
+    <marc:subfield code="3">A.UFF.5.33</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="955" ind1=" " ind2=" ">
+    <marc:subfield code="b">CRPER000104550</marc:subfield>
+    <marc:subfield code="v">Provincia di Agrigento(1929)</marc:subfield>
+    <marc:subfield code="3">A.UFF.5.33</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="955" ind1=" " ind2=" ">
+    <marc:subfield code="b">CRPER000104552</marc:subfield>
+    <marc:subfield code="v">Provincia di Ascoli Piceno(1929)</marc:subfield>
+    <marc:subfield code="3">A.UFF.5.33</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="955" ind1=" " ind2=" ">
+    <marc:subfield code="b">CRPER000104549</marc:subfield>
+    <marc:subfield code="v">Provincia di Bari(1929)</marc:subfield>
+    <marc:subfield code="3">A.UFF.5.33</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="955" ind1=" " ind2=" ">
+    <marc:subfield code="b">CRPER000104553</marc:subfield>
+    <marc:subfield code="v">Provincia di Belluno(1929)</marc:subfield>
+    <marc:subfield code="3">A.UFF.5.33</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="955" ind1=" " ind2=" ">
+    <marc:subfield code="b">CRPER000104555</marc:subfield>
+    <marc:subfield code="v">Provincia di Brindisi(1929)</marc:subfield>
+    <marc:subfield code="3">A.UFF.5.33</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="955" ind1=" " ind2=" ">
+    <marc:subfield code="b">CRPER000104554</marc:subfield>
+    <marc:subfield code="v">Provincia di Caltanissetta(1929)</marc:subfield>
+    <marc:subfield code="3">A.UFF.5.33</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="955" ind1=" " ind2=" ">
+    <marc:subfield code="b">CRPER000104563</marc:subfield>
+    <marc:subfield code="v">Provincia di Carnaro(1929)</marc:subfield>
+    <marc:subfield code="3">A.UFF.5.33</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="955" ind1=" " ind2=" ">
+    <marc:subfield code="b">CRPER000104564</marc:subfield>
+    <marc:subfield code="v">Provincia di Catanzaro(1929)</marc:subfield>
+    <marc:subfield code="3">A.UFF.5.33</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="955" ind1=" " ind2=" ">
+    <marc:subfield code="b">CRPER000104565</marc:subfield>
+    <marc:subfield code="v">Provincia di Chieti(1929)</marc:subfield>
+    <marc:subfield code="3">A.UFF.5.33</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="955" ind1=" " ind2=" ">
+    <marc:subfield code="b">CRPER000104562</marc:subfield>
+    <marc:subfield code="v">Provincia di Enna(1929)</marc:subfield>
+    <marc:subfield code="3">A.UFF.5.33</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="955" ind1=" " ind2=" ">
+    <marc:subfield code="b">CRPER000104561</marc:subfield>
+    <marc:subfield code="v">Provincia di Ferrara(1929)</marc:subfield>
+    <marc:subfield code="3">A.UFF.5.33</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="955" ind1=" " ind2=" ">
+    <marc:subfield code="b">CRPER000104566</marc:subfield>
+    <marc:subfield code="v">Provincia di Genova(1929)</marc:subfield>
+    <marc:subfield code="3">A.UFF.5.33</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="955" ind1=" " ind2=" ">
+    <marc:subfield code="b">CRPER000104557</marc:subfield>
+    <marc:subfield code="v">Provincia di Grosseto(1929)</marc:subfield>
+    <marc:subfield code="3">A.UFF.5.33</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="955" ind1=" " ind2=" ">
+    <marc:subfield code="b">CRPER000104558</marc:subfield>
+    <marc:subfield code="v">Provincia di Imperia(1929)</marc:subfield>
+    <marc:subfield code="3">A.UFF.5.33</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="955" ind1=" " ind2=" ">
+    <marc:subfield code="b">CRPER000104559</marc:subfield>
+    <marc:subfield code="v">Provincia di Livorno(1929)</marc:subfield>
+    <marc:subfield code="3">A.UFF.5.33</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="955" ind1=" " ind2=" ">
+    <marc:subfield code="b">CRPER000104560</marc:subfield>
+    <marc:subfield code="v">Provincia di Lucca(1929)</marc:subfield>
+    <marc:subfield code="3">A.UFF.5.33</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="955" ind1=" " ind2=" ">
+    <marc:subfield code="b">CRPER000104556</marc:subfield>
+    <marc:subfield code="v">Provincia di Macerata(1929)</marc:subfield>
+    <marc:subfield code="3">A.UFF.5.33</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="955" ind1=" " ind2=" ">
+    <marc:subfield code="b">CRPER000104649</marc:subfield>
+    <marc:subfield code="v">Provincia di Napoli(1928)</marc:subfield>
+    <marc:subfield code="3">A.UFF.5.33</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="955" ind1=" " ind2=" ">
+    <marc:subfield code="b">CRPER000104572</marc:subfield>
+    <marc:subfield code="v">Provincia di Novara(1929)</marc:subfield>
+    <marc:subfield code="3">A.UFF.5.33</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="955" ind1=" " ind2=" ">
+    <marc:subfield code="b">CRPER000104571</marc:subfield>
+    <marc:subfield code="v">Provincia di Pesaro(1929)</marc:subfield>
+    <marc:subfield code="3">A.UFF.5.33</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="955" ind1=" " ind2=" ">
+    <marc:subfield code="b">CRPER000104655</marc:subfield>
+    <marc:subfield code="v">Provincia di Roma(1929)</marc:subfield>
+    <marc:subfield code="3">A.UFF.5.33</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="955" ind1=" " ind2=" ">
+    <marc:subfield code="b">CRPER000104569</marc:subfield>
+    <marc:subfield code="v">Provincia di Siracusa(1929)</marc:subfield>
+    <marc:subfield code="3">A.UFF.5.33</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="955" ind1=" " ind2=" ">
+    <marc:subfield code="b">CRPER000104570</marc:subfield>
+    <marc:subfield code="v">Provincia di Spezia(1929)</marc:subfield>
+    <marc:subfield code="3">A.UFF.5.33</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="955" ind1=" " ind2=" ">
+    <marc:subfield code="b">CRPER000104654</marc:subfield>
+    <marc:subfield code="v">Provincia di Torino(1929)</marc:subfield>
+    <marc:subfield code="3">A.UFF.5.33</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="955" ind1=" " ind2=" ">
+    <marc:subfield code="b">CRPER000104568</marc:subfield>
+    <marc:subfield code="v">Provincia di Trieste(1929)</marc:subfield>
+    <marc:subfield code="3">A.UFF.5.33</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="955" ind1=" " ind2=" ">
+    <marc:subfield code="b">CRPER000104567</marc:subfield>
+    <marc:subfield code="v">Provincia di Vercelli(1929)</marc:subfield>
+    <marc:subfield code="3">A.UFF.5.33</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="955" ind1=" " ind2=" ">
+    <marc:subfield code="b">CRPER000104642</marc:subfield>
+    <marc:subfield code="v">Provincia di Brescia(1930)</marc:subfield>
+    <marc:subfield code="3">A.UFF.5.33</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="955" ind1=" " ind2=" ">
+    <marc:subfield code="b">CRPER000104643</marc:subfield>
+    <marc:subfield code="v">Provincia di Campobasso(1930)</marc:subfield>
+    <marc:subfield code="3">A.UFF.5.33</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="955" ind1=" " ind2=" ">
+    <marc:subfield code="b">CRPER000104644</marc:subfield>
+    <marc:subfield code="v">Provincia di Como(1930)</marc:subfield>
+    <marc:subfield code="3">A.UFF.5.33</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="955" ind1=" " ind2=" ">
+    <marc:subfield code="b">CRPER000104646</marc:subfield>
+    <marc:subfield code="v">Provincia di Cremona(1930)</marc:subfield>
+    <marc:subfield code="3">A.UFF.5.33</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="955" ind1=" " ind2=" ">
+    <marc:subfield code="b">CRPER000104645</marc:subfield>
+    <marc:subfield code="v">Provincia di Genova(1930)</marc:subfield>
+    <marc:subfield code="3">A.UFF.5.33</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="955" ind1=" " ind2=" ">
+    <marc:subfield code="b">CRPER000104598</marc:subfield>
+    <marc:subfield code="v">Provincia di Gorizia(1930)</marc:subfield>
+    <marc:subfield code="3">A.UFF.5.33</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="955" ind1=" " ind2=" ">
+    <marc:subfield code="b">CRPER000104597</marc:subfield>
+    <marc:subfield code="v">Provincia di Jonio(1930)</marc:subfield>
+    <marc:subfield code="3">A.UFF.5.33</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="955" ind1=" " ind2=" ">
+    <marc:subfield code="b">CRPER000104638</marc:subfield>
+    <marc:subfield code="v">Provincia di Messina(1930)</marc:subfield>
+    <marc:subfield code="3">A.UFF.5.33</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="955" ind1=" " ind2=" ">
+    <marc:subfield code="b">CRPER000104592</marc:subfield>
+    <marc:subfield code="v">Provincia di Napoli(1930)</marc:subfield>
+    <marc:subfield code="3">A.UFF.5.33</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="955" ind1=" " ind2=" ">
+    <marc:subfield code="b">CRPER000104593</marc:subfield>
+    <marc:subfield code="v">Provincia di Napoli, volume 2(1930)</marc:subfield>
+    <marc:subfield code="3">A.UFF.5.33</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="955" ind1=" " ind2=" ">
+    <marc:subfield code="b">CRPER000104595</marc:subfield>
+    <marc:subfield code="v">Provincia di Nuoro(1930)</marc:subfield>
+    <marc:subfield code="3">A.UFF.5.33</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="955" ind1=" " ind2=" ">
+    <marc:subfield code="b">CRPER000104594</marc:subfield>
+    <marc:subfield code="v">Provincia di Parma(1930)</marc:subfield>
+    <marc:subfield code="3">A.UFF.5.33</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="955" ind1=" " ind2=" ">
+    <marc:subfield code="b">CRPER000104596</marc:subfield>
+    <marc:subfield code="v">Provincia di Pavia(1930)</marc:subfield>
+    <marc:subfield code="3">A.UFF.5.33</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="955" ind1=" " ind2=" ">
+    <marc:subfield code="b">CRPER000104578</marc:subfield>
+    <marc:subfield code="v">Provincia di Perugia(1930)</marc:subfield>
+    <marc:subfield code="3">A.UFF.5.33</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="955" ind1=" " ind2=" ">
+    <marc:subfield code="b">CRPER000104579</marc:subfield>
+    <marc:subfield code="v">Provincia di Pescara(1930)</marc:subfield>
+    <marc:subfield code="3">A.UFF.5.33</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="955" ind1=" " ind2=" ">
+    <marc:subfield code="b">CRPER000104583</marc:subfield>
+    <marc:subfield code="v">Provincia di Pisa(1930)</marc:subfield>
+    <marc:subfield code="3">A.UFF.5.33</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="955" ind1=" " ind2=" ">
+    <marc:subfield code="b">CRPER000104581</marc:subfield>
+    <marc:subfield code="v">Provincia di Pistoia(1930)</marc:subfield>
+    <marc:subfield code="3">A.UFF.5.33</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="955" ind1=" " ind2=" ">
+    <marc:subfield code="b">CRPER000104580</marc:subfield>
+    <marc:subfield code="v">Provincia di Pola(1930)</marc:subfield>
+    <marc:subfield code="3">A.UFF.5.33</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="955" ind1=" " ind2=" ">
+    <marc:subfield code="b">CRPER000104639</marc:subfield>
+    <marc:subfield code="v">Provincia di Potenza(1930)</marc:subfield>
+    <marc:subfield code="3">A.UFF.5.33</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="955" ind1=" " ind2=" ">
+    <marc:subfield code="b">CRPER000104586</marc:subfield>
+    <marc:subfield code="v">Provincia di Reggio Calabria(1930)</marc:subfield>
+    <marc:subfield code="3">A.UFF.5.33</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="955" ind1=" " ind2=" ">
+    <marc:subfield code="b">CRPER000104585</marc:subfield>
+    <marc:subfield code="v">Provincia di Sondrio(1930)</marc:subfield>
+    <marc:subfield code="3">A.UFF.5.33</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="955" ind1=" " ind2=" ">
+    <marc:subfield code="b">CRPER000104584</marc:subfield>
+    <marc:subfield code="v">Provincia di Teramo(1930)</marc:subfield>
+    <marc:subfield code="3">A.UFF.5.33</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="955" ind1=" " ind2=" ">
+    <marc:subfield code="b">CRPER000104640</marc:subfield>
+    <marc:subfield code="v">Provincia di Terni(1930)</marc:subfield>
+    <marc:subfield code="3">A.UFF.5.33</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="955" ind1=" " ind2=" ">
+    <marc:subfield code="b">CRPER000104641</marc:subfield>
+    <marc:subfield code="v">Provincia di Torino(1930)</marc:subfield>
+    <marc:subfield code="3">A.UFF.5.33</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="955" ind1=" " ind2=" ">
+    <marc:subfield code="b">CRPER000104590</marc:subfield>
+    <marc:subfield code="v">Provincia di Trento(1930)</marc:subfield>
+    <marc:subfield code="3">A.UFF.5.33</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="955" ind1=" " ind2=" ">
+    <marc:subfield code="b">CRPER000104582</marc:subfield>
+    <marc:subfield code="v">Provincia di Treviso(1930)</marc:subfield>
+    <marc:subfield code="3">A.UFF.5.33</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="955" ind1=" " ind2=" ">
+    <marc:subfield code="b">CRPER000104587</marc:subfield>
+    <marc:subfield code="v">Provincia di Varese(1930)</marc:subfield>
+    <marc:subfield code="3">A.UFF.5.33</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="955" ind1=" " ind2=" ">
+    <marc:subfield code="b">CRPER000104588</marc:subfield>
+    <marc:subfield code="v">Provincia di Venezia(1930)</marc:subfield>
+    <marc:subfield code="3">A.UFF.5.33</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="955" ind1=" " ind2=" ">
+    <marc:subfield code="b">CRPER000104589</marc:subfield>
+    <marc:subfield code="v">Provincia di Vicenza(1930)</marc:subfield>
+    <marc:subfield code="3">A.UFF.5.33</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="955" ind1=" " ind2=" ">
+    <marc:subfield code="b">CRPER000104591</marc:subfield>
+    <marc:subfield code="v">Provincia di Zara(1930)</marc:subfield>
+    <marc:subfield code="3">A.UFF.5.33</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="955" ind1=" " ind2=" ">
+    <marc:subfield code="b">CRPER000104551</marc:subfield>
+    <marc:subfield code="v">Provincia di Bologna(1930)</marc:subfield>
+    <marc:subfield code="3">A.UFF.5.33</marc:subfield>
+  </marc:datafield>
+</marc:record>
+</marc:collection>
