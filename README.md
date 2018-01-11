@@ -2,6 +2,7 @@
 
 ## 0. Prerequisito
 Installare yaz (dipende dalle versioni Linux es sudo apt-get install yaz)
+
 *Attenzione*: occorre aggiornare almeno alla versione YAZ version: 5.23.1 fab26f85daef9c2bcb9f1236ad37ded279da3898 (le precedenti hanno un bug nel riconoscimento dei sottocampi numerici es $3)
 
 ## 2.
