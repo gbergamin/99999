@@ -6,12 +6,12 @@ Installare yaz (dipende dalle versioni Linux es sudo apt-get install yaz)
 ## 2.
 La cartella principale deve contenere
 - _99999.sh_ programma principale: mette assieme un record MARC21 (formato ISO 2709) e un .csv contenente le annate di un periodico; crea un record MARC21XML valido 
-- _crea955.php_ crezione delle etichette 955 dal csv
-- _valida.php_ validazione finale xml
+- _crea955.php_  chiamato da _99999.sh_ per la creazione delle etichette 955 MARC21 con i dati del file _.csv_
+- _valida.php_ chiamato da _99999.sh_ per la validazione finale del formato xml del record MARC21XML creato
 
 ## 3.
 La sottodirectory _./dati_  è obbligatoria e contiene:
-* il file _testata.txt_ (non va cancellato)
+* il file _testata.txt_ (non va cancellato) e serve a comporre la prima riga del file xml relativo al record MARC21XML creato (si assume che tutta la codifica sia in UTF-8)
 * un file _.csv_ di esempio _BVE0443169.csv_
 * un file di esempio del risultato finale  _BVE0443169.marc21.xml_
 * note:
