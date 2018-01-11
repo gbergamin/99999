@@ -5,7 +5,7 @@ if (($handle = fopen($argv[1], "r")) !== FALSE)
  {
     while (($data = fgetcsv($handle, 1000, ",")) !== FALSE)
 	 {
-		$line955="955    \$b ".substr($data[1],1).$data[2]."000".$data[3]." \$v ".$data[9]." \$3 ".rtrim($data[5]).".".rtrim($data[6]);
+		$line955="955    \$b ".substr($data[1],1).$data[2]."000".$data[3]." \$v ".rtrim($data[9])." \$3 ".rtrim($data[5]).".".rtrim($data[6]);
 		print $line955."\n";
 
 	}
